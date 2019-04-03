@@ -1,0 +1,23 @@
+{
+  "name": "hw_fundamentals_jurassic_park_end",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoryMacGregor88/w6_d2_jurassic_park_homework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RoryMacGregor88/w6_d2_jurassic_park_homework/issues"
+  },
+  "homepage": "https://github.com/RoryMacGregor88/w6_d2_jurassic_park_homework#readme",
+  "description": ""
+}
